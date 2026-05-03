@@ -1,0 +1,7 @@
+cluster,sessions,median_hour,median_energy,median_duration,median_overstay,dcfc_share,top_venue,top_land_use,persona_label
+0,36097,11.0,8.456,2.859722222222222,0.014444444444444482,0.0,Business Office,Metro Area,workplace/fleet top-up
+1,35822,17.0,9.71425,9.743472222222222,6.118333333333333,0.0008653899838088325,Single Family Residential,Metro Area,overnight dwell charger
+2,6290,15.0,11.12105,3.9837499999999997,0.5963888888888889,0.15802861685214625,Single Family Residential,Undesignated,mixed local charging
+3,22425,14.0,19.504,0.6605555555555556,0.009444444444444533,0.9930434782608696,Corridor,Metro Area,fast-charge stop
+4,5824,12.0,10.0527865,3.4608333333333334,0.06583333333333341,0.0,Multi-use Parking Garage/Lot,Metro Area,activity-based top-up
+5,13542,16.0,14.5424675,5.555138888888889,0.6515277777777779,0.0,Multi-Unit Dwelling,Metro Area,mixed local charging

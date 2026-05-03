@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments (per-folder)
+.venv/
+venv/
+env/
+sp26/.venv/
+su26/.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / typing
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Environment secrets (if any scripts load keys)
+.env
+.env.*
+
+# Large raw extract — exceeds GitHub limits; fetch separately or use Git LFS
+evwatts.public/evwatts.public.session.csv
+evwatts.public/evwatts.public.vehicletrips.csv

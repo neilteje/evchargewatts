@@ -1,0 +1,3 @@
+ownership,vehicles,sessions,trips,median_session_energy_kwh,median_session_duration_hours,median_soc_start,median_trip_km,median_trip_duration_hours
+Fleet,803,66163,1211633,21.7,2.0477358333333333,65.0,4.505199999999999,0.2011286111111111
+Personal,251,13213,221384,3.71,1.086666666666667,60.0,5.63264,0.1897397222222222

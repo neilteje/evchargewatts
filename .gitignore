@@ -33,7 +33,8 @@ Thumbs.db
 .env
 .env.*
 
-# Large raw extract — exceeds GitHub limits; fetch separately or use Git LFS
+# Large files — GitHub blocks blobs >100 MB and warns >50 MB
+# Keep these on disk locally; regenerate from pipelines / raw EV Watts CSVs as needed
 evwatts.public/evwatts.public.session.csv
 evwatts.public/evwatts.public.vehicletrips.csv
 nuanced/tables/vehicle_trips_clean.csv

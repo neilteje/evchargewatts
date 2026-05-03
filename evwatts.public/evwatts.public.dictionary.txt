@@ -1,0 +1,123 @@
+EV Watts Public Dataset Data Dictionary
+
+The EV WATTS public dataset adheres to the Open Charge Point Interface (OCPI) protocol 
+definitions of station, EVSE, port, and connector. EVSE is described as a single unit of 
+Electric Vehicle Service Equipment (EVSE) reporting data from a number of connectors from the 
+unit. The number of ports is a count of the connectors that can be simultaneously activated 
+while connectors are described as individual cord sets that could be plugged into a vehicle. 
+More information can be found at https://afdc.energy.gov/fuels/electricity_infrastructure.html 
+under Charging Station Terminology.
+
+PK = primary key
+FK = foreign key
+
+evse table
+	evse_id - PK - an identifier that is artificially generated to represent a unique EVSE
+	metro_area - The metropolitan area that the particular EVSE resides in. Undesignated are areas either not in metropolitain areas or an area with too few EVSE for anonymization
+	land_use - Identifies whether the EVSE is in a Metro area, Non-Metro area, or the location is undesignated
+	region - This is the region of the US the EVSE is located in. These are the same divisions from the US Census
+	num_ports - the number of ports capable of simultaneous charging available at a EVSE. 
+	charge_level - rate of charging (L2, DCFC)
+	venue - Derived field of venue type. Venue types are as follows: 
+		Leisure Destination - examples include movie theaters, breweries, or amusement parks
+		Multi-use Parking Garage/Lot - paid and unpaid general use parking garages or lots
+		Business Office - examples include workplaces, factories, or warehouses
+		Municipal Building - examples include city hall, courthouse, or facility maintenance buildings
+		Single Family Residential - private single-family homes
+		Retail - examples include shopping malls, department stores, or storefronts
+		Fleet - designated parking for fleet vehicles
+		Multi-Unit Dwelling - dedicated parking for apartment buildings and other multi-unit dewllings
+		Medical or Educational Campus - examples include schools, hospitals, universities
+		Hotel - dedicated parking for hotels
+		Transit Facility - examples include park and ride lots or metro parking
+		corridor - EVSE conforms to the USDOT definitions for an alt fuel corridor.
+		Undesignated - Unknown or obscured for anonymization purposes
+	pricing - Information on charging. Can be Paid, Free, or Undesignated
+
+connector table
+    connector_id - PK - unique for every connector in the database
+    evse_id - FK to EVSE table column 'evse_id' 
+    connector_number - the connector number as reported by the EV data provider (Typically 1 or 2)
+    charge_level - level of charging that the connector is capable of providing
+    connector_type - the type of connector that connects the EVSE to the vehicle (CHAdeMO, Combo, or J1772)
+    power_kw - rate at which electricity is transferred (kW)
+
+session table
+    session_id - PK - an identifier that is artificially generated to represent a unique charging session
+    evse_id - FK to the EVSE table, represents the EVSE where the session is being completed
+    connector_id - FK to connector table represents which unique port is being used
+    start_datetime - session start date and time
+    end_datetime - session charge end date and time
+    total_duration - the amount of time between start_datetime and end_datetime (in hours)
+    charge_duration - the amount of time that energy was provided from the EVSE to the vehicle (in hours)
+    energy_kwh - amount of energy provided (in kWh)
+    charge_level - records which level of charging is being used for that session (L2, DCFC)
+    start_soc - % of battery capacity  at the start of the session (only available for DCFC)
+    end_soc - % of battery capacity at the end of session (only available for DCFC)
+    flag_id - FK to PK id in flag table, denotes an error with the session (refer to flag table)
+
+
+NOTE: The combined_session table contains information from the connector, evse, and session table above, and combined into a single table. 
+The combined_session table can be used without any of the other tables
+
+combined_session table
+    session_id - PK - an identifier that is artificially generated to represent a unique charging session
+	metro_area - The metropolitan area that the particular EVSE resides in. Undesignated are areas either not in metropolitain areas or an area with too few EVSE for anonymization
+	land_use - Identifies whether the EVSE is in a Metro area, Non-Metro area, or the location is undesignated
+	region - This is the region of the US the EVSE is located in. These are the same divisions from the US Census
+	num_ports - the number of ports capable of simultaneous charging available at a EVSE.
+	charge_level - rate of charging (L2, DCFC)
+	venue - Derived field of venue type 
+		Derived field of venue type. Venue types are as follows: 
+		Leisure Destination - examples include movie theaters, breweries, or amusement parks
+		Multi-use Parking Garage/Lot - paid and unpaid general use parking garages or lots
+		Business Office - examples include workplaces, factories, or warehouses
+		Municipal Building - examples include city hall, courthouse, or facility maintenance buildings
+		Single Family Residential - private single-family homes
+		Retail - examples include shopping malls, department stores, or storefronts
+		Fleet - designated parking for fleet vehicles
+		Multi-Unit Dwelling - dedicated parking for apartment buildings and other multi-unit dewllings
+		Medical or Educational Campus - examples include schools, hospitals, universities
+		Hotel - dedicated parking for hotels
+		Transit Facility - examples include park and ride lots or metro parking
+		Undesignated - Unknown or obscured for anonymization purposes
+	pricing - Information on charging. Can be Paid, Free, or Undesignated
+	connector_number - the connector number as reported by the EV data provider (Typically 1 or 2)
+    charge_level - level of charging that the connector provides
+    connector_type - the type of hardware that connects the EVSE to the vehicle
+    power_kw - connector rating for rate at which electricity is transferred (kW)
+    start_datetime - session start date and time
+    end_datetime - session charge end date and time
+    total_duration - the amount of time between start_datetime and end_datetime (in hours)
+    charge_duration - the amount of time that energy was provided from the EVSE to the vehicle (in hours)
+    energy_kwh - amount of energy provided (in kWh)
+    charge_level - records which level of charging is being used for that session (L2, DCFC)
+    start_soc - % of battery capacity  at the start of the session
+    end_soc - % of battery capacity at the end of session
+    flag_id - FK to PK id in flag table, denotes an error with the session (refer to flag table)
+	
+FLAGS used for marking issues with sessions
+
+Error Flags are provided to allow users to see charging sessions that are erroneous in nature, the 
+error flags follow a boolean logic scheme in a binary number where a one in a certain 
+digit's place indicates a particular error
+
+description - describes the issue with the session
+	0	no flag
+ 	1	unrealistic kW (Note: flag on vehicle_session only includes sessions longer than 1 min)
+	2	Multiple overlapping (concurrent) sessions at port or multiple overlapping (concurrent) vehicle trips
+	4	start_soc > end_soc
+	8	kWh consumption greater than battery kWh  (120%)
+	16	duplicate row
+	32	charging kWh greater than battery kWh (120%)
+	64	insignificant session length (less than 2.5 min)
+	128	Sessions with 0 kWh transferred
+	256	Low kWh Session ( <0.3 kWh transferred)
+	512	Vehicle trip opverlaps Vehicle Charging Session
+	1024	Energetics Internal Usage
+	2048	Vehicle Trips with high average Wh/mi (Thresholds: SUV > 1100 Wh/mi, Sedan > 650 Wh/mi, Minivan > 1100 Wh/mi)
+	4096 	Estimated Home Location (Telematics)
+	8192	Energy kWh is Null
+	16384	EVSEs that do not observe daylight savings time
+	32768   End Datetime missing when Total Duration and Start Datetime is present
+	65536   Negative Charge Duration

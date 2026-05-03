@@ -1,0 +1,1134 @@
+id,vehicle_type,electrification_level,ownership,state
+100,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+101,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+102,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+103,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+104,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+105,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+106,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+107,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+108,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+109,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+110,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+111,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+112,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+113,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+114,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+115,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+116,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+117,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+118,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+119,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+120,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+121,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+122,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+123,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+124,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+125,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+126,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+127,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+128,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+129,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+130,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+131,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+132,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+133,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+134,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+135,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+136,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+137,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+138,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+139,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+140,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+141,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+142,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+143,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+144,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+145,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+146,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+147,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+148,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+149,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+150,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+151,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+152,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+153,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+154,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+155,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+156,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+157,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+158,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+159,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+160,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+161,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+162,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+163,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+164,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+165,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+166,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+167,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+168,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+169,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+170,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+171,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+172,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+173,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+174,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+175,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+176,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+177,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+178,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+179,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+180,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+181,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+182,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+183,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+184,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+185,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+186,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+187,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+188,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+189,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+190,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+191,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+192,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+193,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+194,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+195,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+196,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+197,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+198,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+199,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+200,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+201,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+202,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+203,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+204,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+205,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+206,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+207,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+208,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+209,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+210,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+211,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+212,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+213,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+214,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+215,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+216,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+217,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+218,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+219,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+220,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+221,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+222,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+223,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+224,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+225,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+226,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+227,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+228,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+229,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+230,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+231,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+232,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+233,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+234,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+235,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+236,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+237,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+238,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+239,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+240,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+241,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+242,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+243,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+244,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+245,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+246,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+247,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+248,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+249,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+250,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+251,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+252,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+253,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+254,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+255,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+256,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+257,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+258,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+259,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+260,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+261,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+262,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+263,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+264,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+265,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+266,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+267,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+268,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+269,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+270,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+271,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+272,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+273,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+274,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+275,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+276,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+277,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+278,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+279,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+280,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+281,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+282,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+283,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+284,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+285,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+286,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+287,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+288,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+289,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+290,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+291,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+292,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+293,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+294,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+295,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+296,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+297,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+298,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+299,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+300,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+301,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+302,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+303,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+304,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+305,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+306,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+307,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+308,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+309,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+310,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+311,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+312,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+313,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+314,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+315,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+316,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+317,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+318,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+319,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+320,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+321,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+322,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+323,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+324,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+325,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+326,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+327,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+328,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+329,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+330,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+331,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+332,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+334,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+335,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+339,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+340,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+341,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+342,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+343,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+344,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+345,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+346,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+347,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+348,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+349,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+350,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+351,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+352,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+353,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+354,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+355,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+356,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+357,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+358,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+359,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+360,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+361,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+362,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+363,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+364,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+365,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+366,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+367,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+368,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+369,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+370,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+371,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+372,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+373,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+374,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+375,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+376,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+377,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+378,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+379,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+380,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+381,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+382,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+383,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+384,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+385,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+386,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+387,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+388,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+389,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+390,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+391,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+392,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+393,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+394,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+395,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+396,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+397,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+398,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+399,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+400,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+401,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+402,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+403,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+404,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+405,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+406,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+407,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+408,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+409,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+410,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+411,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+412,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+413,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+414,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+415,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+416,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+417,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+418,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+419,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+420,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+421,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+422,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+423,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+424,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+425,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+426,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+427,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+428,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+429,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+430,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+431,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+432,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+433,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+434,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+435,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+436,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+437,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+438,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+439,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+440,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+441,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+442,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+443,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+444,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+445,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+446,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+447,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+448,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+449,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+450,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+451,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+452,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+453,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+455,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+456,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+457,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+458,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+459,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+460,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+461,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+462,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+463,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+464,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+465,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+466,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+467,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+468,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+469,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+470,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+471,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+472,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+473,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+474,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+475,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+476,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+477,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+478,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+479,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+480,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+481,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+482,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+483,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+484,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+485,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+486,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+487,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+488,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+489,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+490,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+491,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+492,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+493,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+494,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+495,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+496,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+497,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+498,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+499,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+500,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+501,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+502,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+503,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+504,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+505,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+506,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+507,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+508,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+509,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+510,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+511,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+512,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+513,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+514,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Massachusetts
+515,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+516,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+517,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+518,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+519,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+520,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+521,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+522,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+523,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+524,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+525,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+526,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+527,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+528,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+529,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+530,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+531,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+532,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+533,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+534,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+535,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+536,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+537,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+538,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+539,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+540,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+541,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+542,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+543,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+544,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+545,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+546,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+547,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+548,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+549,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+550,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+551,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+552,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+553,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+554,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+555,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+556,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+557,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+558,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+559,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+560,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+561,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+562,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+563,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+564,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+565,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+566,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+567,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+568,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+569,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+570,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+571,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+572,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+573,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+574,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+575,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+576,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+577,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+578,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+579,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+580,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+581,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+582,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+583,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+584,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+585,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+586,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+587,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+588,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+589,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+590,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+591,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+592,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+593,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+594,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+595,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+596,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+597,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+598,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+599,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+600,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+601,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+602,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+603,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+604,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+605,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+606,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+607,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+608,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+609,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+610,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+611,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+612,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+613,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+614,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+615,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+616,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+617,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+618,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+619,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+620,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+621,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+622,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+623,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+624,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+625,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+626,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+627,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+628,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+629,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+630,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+631,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+632,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+633,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+634,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+635,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+636,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+637,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+638,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+639,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+640,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+641,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+642,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+643,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+644,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+645,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+646,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+647,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+648,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+649,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+650,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Georgia
+651,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+652,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+653,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+654,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Georgia
+655,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+656,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+657,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+658,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+659,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+660,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+661,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+662,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+663,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+664,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+665,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+666,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+667,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+668,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+669,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+670,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+671,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,New York
+672,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+673,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+674,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+675,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+676,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+677,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+678,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+679,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+680,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+681,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+682,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+683,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+684,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+685,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+686,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+687,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+688,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+689,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+690,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+691,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+692,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+693,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+694,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+695,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+696,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+697,BUS,BEV (Battery Electric Vehicle),Fleet,California
+698,BUS,BEV (Battery Electric Vehicle),Fleet,California
+699,BUS,BEV (Battery Electric Vehicle),Fleet,California
+700,BUS,BEV (Battery Electric Vehicle),Fleet,California
+701,BUS,BEV (Battery Electric Vehicle),Fleet,California
+702,BUS,BEV (Battery Electric Vehicle),Fleet,California
+703,BUS,BEV (Battery Electric Vehicle),Fleet,California
+704,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+705,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+706,BUS,BEV (Battery Electric Vehicle),Fleet,California
+707,BUS,BEV (Battery Electric Vehicle),Fleet,California
+708,BUS,BEV (Battery Electric Vehicle),Fleet,California
+709,BUS,BEV (Battery Electric Vehicle),Fleet,California
+710,BUS,BEV (Battery Electric Vehicle),Fleet,California
+711,BUS,BEV (Battery Electric Vehicle),Fleet,California
+712,BUS,BEV (Battery Electric Vehicle),Fleet,California
+713,BUS,BEV (Battery Electric Vehicle),Fleet,California
+714,BUS,BEV (Battery Electric Vehicle),Fleet,California
+715,BUS,BEV (Battery Electric Vehicle),Fleet,California
+716,BUS,BEV (Battery Electric Vehicle),Fleet,California
+717,BUS,BEV (Battery Electric Vehicle),Fleet,California
+718,BUS,BEV (Battery Electric Vehicle),Fleet,California
+719,BUS,BEV (Battery Electric Vehicle),Fleet,California
+720,BUS,BEV (Battery Electric Vehicle),Fleet,California
+721,BUS,BEV (Battery Electric Vehicle),Fleet,California
+722,BUS,BEV (Battery Electric Vehicle),Fleet,California
+723,BUS,BEV (Battery Electric Vehicle),Fleet,California
+724,BUS,BEV (Battery Electric Vehicle),Fleet,California
+725,BUS,BEV (Battery Electric Vehicle),Fleet,California
+726,BUS,BEV (Battery Electric Vehicle),Fleet,California
+727,BUS,BEV (Battery Electric Vehicle),Fleet,California
+728,BUS,BEV (Battery Electric Vehicle),Fleet,California
+729,BUS,BEV (Battery Electric Vehicle),Fleet,California
+730,BUS,BEV (Battery Electric Vehicle),Fleet,California
+731,BUS,BEV (Battery Electric Vehicle),Fleet,California
+732,BUS,BEV (Battery Electric Vehicle),Fleet,California
+733,BUS,BEV (Battery Electric Vehicle),Fleet,California
+734,BUS,BEV (Battery Electric Vehicle),Fleet,California
+735,BUS,BEV (Battery Electric Vehicle),Fleet,California
+736,BUS,BEV (Battery Electric Vehicle),Fleet,California
+737,BUS,BEV (Battery Electric Vehicle),Fleet,California
+738,BUS,BEV (Battery Electric Vehicle),Fleet,California
+739,BUS,BEV (Battery Electric Vehicle),Fleet,California
+740,BUS,BEV (Battery Electric Vehicle),Fleet,California
+741,BUS,BEV (Battery Electric Vehicle),Fleet,California
+742,BUS,BEV (Battery Electric Vehicle),Fleet,California
+743,BUS,BEV (Battery Electric Vehicle),Fleet,California
+744,BUS,BEV (Battery Electric Vehicle),Fleet,California
+745,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+746,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Washington
+747,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+748,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+749,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+750,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+751,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+752,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+753,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+754,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+755,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+760,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+763,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+764,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+765,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+766,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+767,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+768,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+770,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,California
+771,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+772,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+773,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+774,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+775,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+776,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+777,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+788,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+789,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+806,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+807,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+809,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+810,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+811,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+826,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+830,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+845,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+848,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+858,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+859,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+860,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Georgia
+861,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+863,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+864,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+868,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+871,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+876,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+880,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Colorado
+885,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+892,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+893,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,California
+894,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+895,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+898,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,California
+902,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+903,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+904,BUS,BEV (Battery Electric Vehicle),Fleet,California
+905,BUS,BEV (Battery Electric Vehicle),Fleet,California
+906,BUS,BEV (Battery Electric Vehicle),Fleet,California
+907,BUS,BEV (Battery Electric Vehicle),Fleet,California
+908,BUS,BEV (Battery Electric Vehicle),Fleet,California
+909,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+910,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+911,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+912,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+913,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+914,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+915,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+916,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+917,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+918,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+919,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+920,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+921,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+922,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+923,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+924,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Washington
+925,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+926,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+927,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+928,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+929,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+930,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+931,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+932,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+933,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+934,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+935,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+936,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+937,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+938,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+939,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+940,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+941,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+942,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+943,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+944,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+945,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+946,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+947,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+948,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+949,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+950,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+951,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+952,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+953,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+954,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+955,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+956,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+957,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+958,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+959,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+960,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+961,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+962,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+963,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+0,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+1,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+2,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+3,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+4,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+5,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+6,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+7,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+8,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+9,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+10,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+11,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+12,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+13,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+14,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+15,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+16,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+17,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+18,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+19,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+20,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+21,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+22,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+23,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+24,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+25,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,California
+26,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+27,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+28,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+29,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+30,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+31,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+32,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+33,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+34,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+35,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+36,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+37,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+38,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+39,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+40,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+41,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+42,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+43,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+44,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+45,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+46,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+47,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+48,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+49,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+50,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+51,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+52,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+53,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+54,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+55,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+56,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+57,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+58,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+59,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+60,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+61,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+62,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+63,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+64,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+65,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+66,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+67,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+68,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+69,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+70,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+71,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+72,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+73,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+74,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+75,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+76,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+77,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+78,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+79,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+80,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+81,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+82,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+83,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+84,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+85,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+86,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+87,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Other
+88,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+89,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+90,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+91,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+92,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+93,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+94,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+95,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+96,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+97,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+98,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+99,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+964,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+965,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+966,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+967,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+968,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+969,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+970,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+971,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+972,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+973,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+974,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+975,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+976,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+977,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+978,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+979,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+980,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+981,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+982,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+983,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+984,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+985,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+986,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Ohio
+987,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+988,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+989,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+990,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Other
+991,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+992,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+993,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+994,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+995,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+996,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+997,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Ohio
+1006,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+1007,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+1008,BUS,BEV (Battery Electric Vehicle),Fleet,Other
+1009,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+1010,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+1011,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Colorado
+1012,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1013,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1014,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1015,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1017,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1019,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1020,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1023,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+1025,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1026,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Colorado
+1027,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1028,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1029,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1030,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1031,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1032,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1035,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Ohio
+1036,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1037,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1039,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1040,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1041,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1042,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1043,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1044,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1045,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Colorado
+1046,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+1047,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Fleet,Colorado
+1048,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+1049,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+1051,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+1052,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+1053,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Georgia
+1054,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+1055,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+1056,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+1057,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+1058,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+1059,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+1060,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+1061,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Colorado
+1062,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+1063,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Ohio
+1064,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,New York
+1065,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Ohio
+1066,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1067,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Ohio
+1068,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Ohio
+1069,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+1070,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,New York
+1071,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1072,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+1073,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,New York
+1074,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Fleet,New York
+1075,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+1076,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+1077,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Massachusetts
+1078,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1079,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1080,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1081,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1082,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1083,BUS,BEV (Battery Electric Vehicle),Fleet,Texas
+1084,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1085,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1086,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1087,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1088,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1089,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1090,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1091,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1092,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1093,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1094,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1095,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1096,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1097,BUS,BEV (Battery Electric Vehicle),Fleet,Georgia
+1098,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Ohio
+1099,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,New York
+1100,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Massachusetts
+1102,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Massachusetts
+1103,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Texas
+1104,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1105,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1106,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1107,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1108,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1109,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1110,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1111,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1112,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1113,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1114,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1115,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1116,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1117,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1118,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1119,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1120,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1121,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1122,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1123,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1124,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1175,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+1176,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1177,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1178,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1179,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1180,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1181,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1182,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1183,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1184,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1185,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1186,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1187,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1188,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1189,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1190,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1191,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1192,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1193,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1194,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1195,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1196,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1197,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1198,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1199,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1200,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1201,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1202,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1203,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1204,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1205,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1206,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1207,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1208,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1209,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1210,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1211,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1212,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1213,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1214,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1215,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1216,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1217,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1218,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1219,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1220,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1221,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1222,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1223,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1224,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1225,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1226,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1227,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1228,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1229,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1230,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1231,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1232,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1233,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1234,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1235,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1236,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1237,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1238,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1239,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1240,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1241,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1242,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1243,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1244,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1245,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1246,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1247,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1248,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1249,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1250,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1251,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1252,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1253,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1254,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1255,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1256,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1257,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1258,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1259,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1260,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1261,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1262,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1263,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1264,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1265,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1266,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1267,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1268,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1269,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1270,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1271,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1272,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1273,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1274,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1275,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1276,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1277,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1278,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1279,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1280,MULTIPURPOSE PASSENGER VEHICLE (MPV),PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1281,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1282,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1283,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1284,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1285,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1286,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1287,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1288,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1289,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1290,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1291,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Personal,Other
+1292,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+1293,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other
+1294,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1295,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1296,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1297,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1298,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1299,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1300,BUS,BEV (Battery Electric Vehicle),Fleet,California
+1301,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1302,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1303,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1304,PASSENGER CAR,PHEV (Plug-in Hybrid Electric Vehicle),Personal,Other
+1305,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1306,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1307,PASSENGER CAR,BEV (Battery Electric Vehicle),Personal,Other
+1308,MULTIPURPOSE PASSENGER VEHICLE (MPV),BEV (Battery Electric Vehicle),Fleet,Other
+1309,PASSENGER CAR,BEV (Battery Electric Vehicle),Fleet,Other

@@ -1,0 +1,8 @@
+venue,charge_level,evse_count,ports
+Multi-Unit Dwelling,L2,124,229
+Fleet,L2,54,76
+Undesignated,DCFC,70,70
+Corridor,DCFC,26,26
+Multi-use Parking Garage/Lot,L2,12,24
+Business Office,L2,3,6
+Single Family Residential,L2,1,2

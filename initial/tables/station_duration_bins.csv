@@ -1,0 +1,71 @@
+geo_scope,charge_level,duration_bin,sessions
+Chicago metro,DCFC,0-15m,1365
+Chicago metro,DCFC,15-30m,2232
+Chicago metro,DCFC,30-60m,3547
+Chicago metro,DCFC,1-2h,2899
+Chicago metro,DCFC,2-4h,1471
+Chicago metro,DCFC,4-8h,438
+Chicago metro,DCFC,8-12h,102
+Chicago metro,DCFC,12-24h,758
+Chicago metro,DCFC,24-48h,153
+Chicago metro,DCFC,48h+,159
+Chicago metro,L2,0-15m,838
+Chicago metro,L2,15-30m,1236
+Chicago metro,L2,30-60m,3250
+Chicago metro,L2,1-2h,7484
+Chicago metro,L2,2-4h,15682
+Chicago metro,L2,4-8h,14022
+Chicago metro,L2,8-12h,15025
+Chicago metro,L2,12-24h,18298
+Chicago metro,L2,24-48h,3218
+Chicago metro,L2,48h+,3210
+Other Midwest,DCFC,0-15m,31900
+Other Midwest,DCFC,15-30m,63343
+Other Midwest,DCFC,30-60m,86880
+Other Midwest,DCFC,1-2h,41937
+Other Midwest,DCFC,2-4h,9303
+Other Midwest,DCFC,4-8h,2382
+Other Midwest,DCFC,8-12h,946
+Other Midwest,DCFC,12-24h,1531
+Other Midwest,DCFC,24-48h,301
+Other Midwest,DCFC,48h+,393
+Other Midwest,L2,0-15m,50180
+Other Midwest,L2,15-30m,77725
+Other Midwest,L2,30-60m,133565
+Other Midwest,L2,1-2h,203242
+Other Midwest,L2,2-4h,267715
+Other Midwest,L2,4-8h,270875
+Other Midwest,L2,8-12h,293188
+Other Midwest,L2,12-24h,360514
+Other Midwest,L2,24-48h,48217
+Other Midwest,L2,48h+,39140
+Other US,DCFC,0-15m,268481
+Other US,DCFC,15-30m,533093
+Other US,DCFC,30-60m,737347
+Other US,DCFC,1-2h,429294
+Other US,DCFC,2-4h,113155
+Other US,DCFC,4-8h,57586
+Other US,DCFC,8-12h,22325
+Other US,DCFC,12-24h,25851
+Other US,DCFC,24-48h,5800
+Other US,DCFC,48h+,4638
+Other US,L2,0-15m,171682
+Other US,L2,15-30m,284802
+Other US,L2,30-60m,619923
+Other US,L2,1-2h,1137422
+Other US,L2,2-4h,1613220
+Other US,L2,4-8h,1360008
+Other US,L2,8-12h,1178711
+Other US,L2,12-24h,1535326
+Other US,L2,24-48h,205996
+Other US,L2,48h+,135289
+,,0-15m,4042
+,,15-30m,7934
+,,30-60m,13115
+,,1-2h,10892
+,,2-4h,8576
+,,4-8h,80858
+,,8-12h,29711
+,,12-24h,27788
+,,24-48h,1754
+,,48h+,1449

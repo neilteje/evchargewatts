@@ -1,0 +1,27 @@
+geo_scope,connector_type,power_kw,connectors,evse_count
+Chicago metro,J1772,<8 kW,299,166
+Chicago metro,Combo,<30 kW,63,63
+Chicago metro,Combo,30 kW - 100 kW,32,32
+Chicago metro,J1772,>8 kW,28,28
+Chicago metro,CHAdeMO,30 kW - 100 kW,16,16
+Other Midwest,J1772,<8 kW,4030,2577
+Other Midwest,J1772,>8 kW,3140,3140
+Other Midwest,Combo,30 kW - 100 kW,429,429
+Other Midwest,CHAdeMO,30 kW - 100 kW,368,366
+Other Midwest,Combo,<30 kW,222,222
+Other Midwest,Combo,>100 kW,8,8
+Other Midwest,CHAdeMO,<30 kW,1,1
+Other Midwest,CHAdeMO,>100 kW,1,1
+Other Midwest,CHAdeMO,Undesignated,1,1
+Other Midwest,Combo,Undesignated,1,1
+Other US,J1772,<8 kW,22805,13643
+Other US,J1772,>8 kW,12539,12524
+Other US,Combo,30 kW - 100 kW,2604,2603
+Other US,CHAdeMO,30 kW - 100 kW,2029,2028
+Other US,Combo,<30 kW,1304,1303
+Other US,Combo,>100 kW,83,83
+Other US,J1772,Undesignated,45,34
+Other US,CHAdeMO,<30 kW,33,33
+Other US,CHAdeMO,>100 kW,12,12
+Other US,CHAdeMO,Undesignated,5,5
+Other US,Combo,Undesignated,5,5

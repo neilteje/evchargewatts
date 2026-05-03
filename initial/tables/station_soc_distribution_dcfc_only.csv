@@ -1,0 +1,41 @@
+geo_scope,charge_level,start_soc_band,sessions,median_end_soc
+Chicago metro,DCFC,0-10,719,59.0
+Chicago metro,DCFC,10-20,1559,75.0
+Chicago metro,DCFC,20-30,1917,81.0
+Chicago metro,DCFC,30-40,1711,83.0
+Chicago metro,DCFC,40-50,1709,86.0
+Chicago metro,DCFC,50-60,1467,89.0
+Chicago metro,DCFC,60-70,1053,90.0
+Chicago metro,DCFC,70-80,785,94.0
+Chicago metro,DCFC,80-90,680,99.0
+Chicago metro,DCFC,90-100,921,100.0
+Other Midwest,DCFC,0-10,17856,66.0
+Other Midwest,DCFC,10-20,37500,72.0
+Other Midwest,DCFC,20-30,43992,75.75
+Other Midwest,DCFC,30-40,39237,79.0
+Other Midwest,DCFC,40-50,33103,80.0
+Other Midwest,DCFC,50-60,25930,81.0
+Other Midwest,DCFC,60-70,17489,85.25
+Other Midwest,DCFC,70-80,10720,90.0
+Other Midwest,DCFC,80-90,5869,95.0
+Other Midwest,DCFC,90-100,4465,100.0
+Other US,DCFC,0-10,146032,71.0
+Other US,DCFC,10-20,290841,77.0
+Other US,DCFC,20-30,357739,80.0
+Other US,DCFC,30-40,340639,81.0
+Other US,DCFC,40-50,303916,84.0
+Other US,DCFC,50-60,252347,88.0
+Other US,DCFC,60-70,182299,90.0
+Other US,DCFC,70-80,116878,94.0
+Other US,DCFC,80-90,71872,98.0
+Other US,DCFC,90-100,50159,100.0
+,,0-10,1057,76.5
+,,10-20,2114,79.5
+,,20-30,2415,81.0
+,,30-40,2377,81.5
+,,40-50,2172,85.0
+,,50-60,1892,88.0
+,,60-70,1175,91.0
+,,70-80,818,93.75
+,,80-90,483,98.0
+,,90-100,221,99.0

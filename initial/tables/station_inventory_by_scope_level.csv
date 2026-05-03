@@ -1,0 +1,7 @@
+geo_scope,charge_level,evse_count,ports
+Chicago metro,DCFC,96,96
+Chicago metro,L2,194,337
+Other Midwest,DCFC,664,665
+Other Midwest,L2,5717,7210
+Other US,DCFC,4067,4068
+Other US,L2,26188,35677

@@ -36,3 +36,5 @@ Thumbs.db
 # Large raw extract — exceeds GitHub limits; fetch separately or use Git LFS
 evwatts.public/evwatts.public.session.csv
 evwatts.public/evwatts.public.vehicletrips.csv
+nuanced/tables/vehicle_trips_clean.csv
+nuanced/tables/station_session_model_sample.csv
